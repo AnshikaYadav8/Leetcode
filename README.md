@@ -40,6 +40,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/AnshikaYadav8/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnshikaYadav8/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/AnshikaYadav8/Leetcode/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/0968-beautiful-array) |
 ## Heap (Priority Queue)
 |  |
@@ -74,5 +75,6 @@
 ## Math
 |  |
 | ------- |
+| [0372-super-pow](https://github.com/AnshikaYadav8/Leetcode/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/0968-beautiful-array) |
 <!---LeetCode Topics End-->
