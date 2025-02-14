@@ -9,6 +9,7 @@
 | [0056-merge-intervals](https://github.com/AnshikaYadav8/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AnshikaYadav8/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0162-find-peak-element](https://github.com/AnshikaYadav8/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnshikaYadav8/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnshikaYadav8/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AnshikaYadav8/Leetcode/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnshikaYadav8/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/AnshikaYadav8/Leetcode/tree/master/0372-super-pow) |
@@ -57,6 +59,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/AnshikaYadav8/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -96,6 +99,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/AnshikaYadav8/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnshikaYadav8/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -117,6 +121,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/AnshikaYadav8/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnshikaYadav8/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
