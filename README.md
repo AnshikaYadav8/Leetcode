@@ -104,6 +104,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0110-balanced-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnshikaYadav8/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AnshikaYadav8/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/AnshikaYadav8/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -117,6 +118,7 @@
 | [0098-validate-binary-search-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnshikaYadav8/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AnshikaYadav8/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/AnshikaYadav8/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -134,6 +136,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0110-balanced-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnshikaYadav8/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AnshikaYadav8/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/AnshikaYadav8/Leetcode/tree/master/0199-binary-tree-right-side-view) |
