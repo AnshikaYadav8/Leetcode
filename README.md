@@ -179,4 +179,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnshikaYadav8/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AnshikaYadav8/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
