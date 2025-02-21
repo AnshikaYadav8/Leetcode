@@ -116,6 +116,7 @@
 | [0226-invert-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnshikaYadav8/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/AnshikaYadav8/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [1005-univalued-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -134,6 +135,7 @@
 | [0226-invert-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnshikaYadav8/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/AnshikaYadav8/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [1005-univalued-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -156,6 +158,7 @@
 | [0226-invert-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnshikaYadav8/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/AnshikaYadav8/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [1005-univalued-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -169,6 +172,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/AnshikaYadav8/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/AnshikaYadav8/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [1005-univalued-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
