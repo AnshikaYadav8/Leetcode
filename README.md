@@ -186,6 +186,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/AnshikaYadav8/Leetcode/tree/master/0175-combine-two-tables) |
 | [0595-big-countries](https://github.com/AnshikaYadav8/Leetcode/tree/master/0595-big-countries) |
+| [0596-classes-more-than-5-students](https://github.com/AnshikaYadav8/Leetcode/tree/master/0596-classes-more-than-5-students) |
 ## Linked List
 |  |
 | ------- |
