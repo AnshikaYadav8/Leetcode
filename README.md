@@ -188,6 +188,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/AnshikaYadav8/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
