@@ -20,6 +20,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/AnshikaYadav8/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0142-linked-list-cycle-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnshikaYadav8/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Bucket Sort
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/AnshikaYadav8/Leetcode/tree/master/0175-combine-two-tables) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
