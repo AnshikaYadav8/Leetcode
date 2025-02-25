@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnshikaYadav8/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnshikaYadav8/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AnshikaYadav8/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AnshikaYadav8/Leetcode/tree/master/0056-merge-intervals) |
@@ -62,6 +63,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnshikaYadav8/Leetcode/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnshikaYadav8/Leetcode/tree/master/0347-top-k-frequent-elements) |
