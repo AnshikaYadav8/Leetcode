@@ -198,6 +198,7 @@
 | [0595-big-countries](https://github.com/AnshikaYadav8/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/AnshikaYadav8/Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [1135-customers-who-bought-all-products](https://github.com/AnshikaYadav8/Leetcode/tree/master/1135-customers-who-bought-all-products) |
+| [1258-article-views-i](https://github.com/AnshikaYadav8/Leetcode/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AnshikaYadav8/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Linked List
 |  |
