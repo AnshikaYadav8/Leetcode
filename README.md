@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnshikaYadav8/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/AnshikaYadav8/Leetcode/tree/master/0050-powx-n) |
 | [0372-super-pow](https://github.com/AnshikaYadav8/Leetcode/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/0968-beautiful-array) |
 ## Dynamic Programming
@@ -217,6 +218,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnshikaYadav8/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/AnshikaYadav8/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/AnshikaYadav8/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AnshikaYadav8/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
