@@ -201,6 +201,7 @@
 | [1135-customers-who-bought-all-products](https://github.com/AnshikaYadav8/Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1258-article-views-i](https://github.com/AnshikaYadav8/Leetcode/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/AnshikaYadav8/Leetcode/tree/master/1415-students-and-examinations) |
+| [1811-fix-names-in-a-table](https://github.com/AnshikaYadav8/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AnshikaYadav8/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Linked List
 |  |
