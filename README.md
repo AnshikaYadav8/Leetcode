@@ -16,6 +16,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AnshikaYadav8/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnshikaYadav8/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0968-beautiful-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/0968-beautiful-array) |
+| [1137-height-checker](https://github.com/AnshikaYadav8/Leetcode/tree/master/1137-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnshikaYadav8/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/AnshikaYadav8/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1137-height-checker](https://github.com/AnshikaYadav8/Leetcode/tree/master/1137-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -235,4 +237,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AnshikaYadav8/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/AnshikaYadav8/Leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
