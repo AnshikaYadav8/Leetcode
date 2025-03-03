@@ -15,6 +15,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnshikaYadav8/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnshikaYadav8/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0917-boats-to-save-people](https://github.com/AnshikaYadav8/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0968-beautiful-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/0968-beautiful-array) |
 | [1137-height-checker](https://github.com/AnshikaYadav8/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -26,6 +27,7 @@
 | [0088-merge-sorted-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AnshikaYadav8/Leetcode/tree/master/0143-reorder-list) |
+| [0917-boats-to-save-people](https://github.com/AnshikaYadav8/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +37,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AnshikaYadav8/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnshikaYadav8/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/AnshikaYadav8/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0917-boats-to-save-people](https://github.com/AnshikaYadav8/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/AnshikaYadav8/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -245,4 +248,8 @@
 | ------- |
 | [1137-height-checker](https://github.com/AnshikaYadav8/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/AnshikaYadav8/Leetcode/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
