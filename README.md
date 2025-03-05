@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/AnshikaYadav8/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0136-single-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AnshikaYadav8/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnshikaYadav8/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -257,4 +258,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
