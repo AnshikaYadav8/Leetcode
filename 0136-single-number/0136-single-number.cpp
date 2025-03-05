@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         unordered_map<int,int> mp;
@@ -11,5 +11,16 @@ public:
             }
         }
         return -1;
+    }
+};*/
+
+class Solution{
+    public:
+    int singleNumber(vector<int>& nums) {
+        int result = 0;
+        for(auto x: nums){
+            result ^= x;
+        }
+         return result;
     }
 };
