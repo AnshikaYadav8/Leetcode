@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnshikaYadav8/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/AnshikaYadav8/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/AnshikaYadav8/Leetcode/tree/master/0050-powx-n) |
 | [0372-super-pow](https://github.com/AnshikaYadav8/Leetcode/tree/master/0372-super-pow) |
