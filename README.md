@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AnshikaYadav8/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AnshikaYadav8/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnshikaYadav8/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0917-boats-to-save-people](https://github.com/AnshikaYadav8/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -36,6 +37,7 @@
 | [0056-merge-intervals](https://github.com/AnshikaYadav8/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AnshikaYadav8/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AnshikaYadav8/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnshikaYadav8/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/AnshikaYadav8/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -49,6 +51,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/AnshikaYadav8/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/AnshikaYadav8/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AnshikaYadav8/Leetcode/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnshikaYadav8/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
@@ -78,6 +81,7 @@
 | [0001-two-sum](https://github.com/AnshikaYadav8/Leetcode/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AnshikaYadav8/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AnshikaYadav8/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -107,6 +111,7 @@
 | [0007-reverse-integer](https://github.com/AnshikaYadav8/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/AnshikaYadav8/Leetcode/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/AnshikaYadav8/Leetcode/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/0968-beautiful-array) |
 ## Dynamic Programming
@@ -265,4 +270,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
