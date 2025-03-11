@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnshikaYadav8/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/AnshikaYadav8/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/AnshikaYadav8/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
@@ -113,6 +114,7 @@
 | [0007-reverse-integer](https://github.com/AnshikaYadav8/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/AnshikaYadav8/Leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/AnshikaYadav8/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/AnshikaYadav8/Leetcode/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/0968-beautiful-array) |
