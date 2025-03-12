@@ -249,6 +249,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AnshikaYadav8/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AnshikaYadav8/Leetcode/tree/master/0206-reverse-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/AnshikaYadav8/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -279,4 +280,8 @@
 | ------- |
 | [0136-single-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/AnshikaYadav8/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
