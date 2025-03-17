@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnshikaYadav8/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/AnshikaYadav8/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AnshikaYadav8/Leetcode/tree/master/0013-roman-to-integer) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -114,6 +115,7 @@
 | [0002-add-two-numbers](https://github.com/AnshikaYadav8/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AnshikaYadav8/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/AnshikaYadav8/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AnshikaYadav8/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AnshikaYadav8/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AnshikaYadav8/Leetcode/tree/master/0069-sqrtx) |
@@ -262,6 +264,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AnshikaYadav8/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AnshikaYadav8/Leetcode/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/AnshikaYadav8/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting Sort
