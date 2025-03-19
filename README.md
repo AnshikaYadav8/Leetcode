@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AnshikaYadav8/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnshikaYadav8/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0485-max-consecutive-ones](https://github.com/AnshikaYadav8/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0917-boats-to-save-people](https://github.com/AnshikaYadav8/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0968-beautiful-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/0968-beautiful-array) |
 | [1137-height-checker](https://github.com/AnshikaYadav8/Leetcode/tree/master/1137-height-checker) |
