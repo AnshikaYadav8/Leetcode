@@ -238,6 +238,7 @@
 | [0182-duplicate-emails](https://github.com/AnshikaYadav8/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/AnshikaYadav8/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/AnshikaYadav8/Leetcode/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/AnshikaYadav8/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0577-employee-bonus](https://github.com/AnshikaYadav8/Leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/AnshikaYadav8/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/AnshikaYadav8/Leetcode/tree/master/0596-classes-more-than-5-students) |
