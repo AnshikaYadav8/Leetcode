@@ -248,6 +248,7 @@
 | [0610-triangle-judgement](https://github.com/AnshikaYadav8/Leetcode/tree/master/0610-triangle-judgement) |
 | [0627-swap-salary](https://github.com/AnshikaYadav8/Leetcode/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/AnshikaYadav8/Leetcode/tree/master/1135-customers-who-bought-all-products) |
+| [1153-product-sales-analysis-i](https://github.com/AnshikaYadav8/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/AnshikaYadav8/Leetcode/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/AnshikaYadav8/Leetcode/tree/master/1415-students-and-examinations) |
 | [1480-movie-rating](https://github.com/AnshikaYadav8/Leetcode/tree/master/1480-movie-rating) |
