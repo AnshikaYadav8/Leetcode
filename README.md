@@ -126,6 +126,7 @@
 | [0013-roman-to-integer](https://github.com/AnshikaYadav8/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AnshikaYadav8/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AnshikaYadav8/Leetcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/AnshikaYadav8/Leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/AnshikaYadav8/Leetcode/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/0968-beautiful-array) |
@@ -298,6 +299,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/AnshikaYadav8/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
 ## Simulation
@@ -312,4 +314,8 @@
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/AnshikaYadav8/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/AnshikaYadav8/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
