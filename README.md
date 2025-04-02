@@ -189,6 +189,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/AnshikaYadav8/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1005-univalued-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1300-critical-connections-in-a-network](https://github.com/AnshikaYadav8/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AnshikaYadav8/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -316,6 +317,7 @@
 ## Graph
 |  |
 | ------- |
+| [1300-critical-connections-in-a-network](https://github.com/AnshikaYadav8/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AnshikaYadav8/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
@@ -337,4 +339,8 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AnshikaYadav8/Leetcode/tree/master/0218-the-skyline-problem) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/AnshikaYadav8/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
