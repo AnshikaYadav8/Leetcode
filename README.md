@@ -30,6 +30,7 @@
 | [1137-height-checker](https://github.com/AnshikaYadav8/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/AnshikaYadav8/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AnshikaYadav8/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Two Pointers
 |  |
@@ -302,6 +303,7 @@
 | [0055-jump-game](https://github.com/AnshikaYadav8/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/AnshikaYadav8/Leetcode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/AnshikaYadav8/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/AnshikaYadav8/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AnshikaYadav8/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Prefix Sum
 |  |
