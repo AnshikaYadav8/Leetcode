@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnshikaYadav8/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AnshikaYadav8/Leetcode/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/AnshikaYadav8/Leetcode/tree/master/0200-number-of-islands) |
 | [0218-the-skyline-problem](https://github.com/AnshikaYadav8/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
@@ -92,6 +93,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AnshikaYadav8/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnshikaYadav8/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Hash Table
@@ -190,6 +192,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AnshikaYadav8/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AnshikaYadav8/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnshikaYadav8/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/AnshikaYadav8/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -230,6 +233,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/AnshikaYadav8/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AnshikaYadav8/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/AnshikaYadav8/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1005-univalued-binary-tree](https://github.com/AnshikaYadav8/Leetcode/tree/master/1005-univalued-binary-tree) |
@@ -322,6 +326,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AnshikaYadav8/Leetcode/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AnshikaYadav8/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
