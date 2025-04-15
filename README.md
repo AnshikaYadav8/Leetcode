@@ -152,6 +152,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnshikaYadav8/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/AnshikaYadav8/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -295,6 +296,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/AnshikaYadav8/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AnshikaYadav8/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/AnshikaYadav8/Leetcode/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/AnshikaYadav8/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting Sort
 |  |
