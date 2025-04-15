@@ -77,6 +77,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/AnshikaYadav8/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AnshikaYadav8/Leetcode/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnshikaYadav8/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/AnshikaYadav8/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/AnshikaYadav8/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnshikaYadav8/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -318,6 +319,7 @@
 | ------- |
 | [0089-gray-code](https://github.com/AnshikaYadav8/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/AnshikaYadav8/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
