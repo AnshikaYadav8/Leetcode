@@ -6,15 +6,14 @@ public:
         
         for (char c : s) {
             if (c == '(' || c == '[' || c == '{') {
-                stk.push(c); // Push opening parentheses onto stack
+                stk.push(c); 
             } else if (c == ')' || c == ']' || c == '}') {
                 if (stk.empty() || stk.top() != mapping[c]) {
-                    return false; // Either the stack is empty or the top doesn't match
+                    return false; 
                 }
-                stk.pop(); // Pop the matching opening parenthesis
+                stk.pop(); 
             }
         }
-        
         return stk.empty(); 
     }
 };
