@@ -143,6 +143,7 @@
 | [0069-sqrtx](https://github.com/AnshikaYadav8/Leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/AnshikaYadav8/Leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/AnshikaYadav8/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0372-super-pow](https://github.com/AnshikaYadav8/Leetcode/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/AnshikaYadav8/Leetcode/tree/master/0968-beautiful-array) |
 ## Dynamic Programming
@@ -154,6 +155,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnshikaYadav8/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnshikaYadav8/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnshikaYadav8/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0357-count-numbers-with-unique-digits](https://github.com/AnshikaYadav8/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Stack
 |  |
 | ------- |
@@ -349,6 +351,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/AnshikaYadav8/Leetcode/tree/master/0089-gray-code) |
+| [0357-count-numbers-with-unique-digits](https://github.com/AnshikaYadav8/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Binary Indexed Tree
 |  |
 | ------- |
