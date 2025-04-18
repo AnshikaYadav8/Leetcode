@@ -330,6 +330,7 @@
 | [0136-single-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AnshikaYadav8/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/AnshikaYadav8/Leetcode/tree/master/0268-missing-number) |
+| [0461-hamming-distance](https://github.com/AnshikaYadav8/Leetcode/tree/master/0461-hamming-distance) |
 ## Simulation
 |  |
 | ------- |
